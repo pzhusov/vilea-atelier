@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /assets/img/
 
-Sitemap: https://vileaatelier.cz/sitemap.xml
+Sitemap: https://vilea.store/sitemap.xml
