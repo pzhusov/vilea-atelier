@@ -5,47 +5,51 @@
 
   <url>
     <loc>https://vilea.store/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="cs" href="https://vilea.store/" />
     <image:image>
       <image:loc>https://vilea.store/assets/img/hero.jpg</image:loc>
-      <image:title>Ateliér Víleá — interiér krejčovského ateliéru v Praze</image:title>
+      <image:title>Krejčovství VÍLEÁ Atelier — interiér ateliéru Praha</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://vilea.store/assets/img/logo-full-web.png</image:loc>
+      <image:title>Logo Krejčovství VÍLEÁ Atelier</image:title>
     </image:image>
   </url>
 
   <url>
     <loc>https://vilea.store/o-nas.html</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://vilea.store/sluzby.html</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://vilea.store/cenik.html</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://vilea.store/galerie.html</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://vilea.store/kontakt.html</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

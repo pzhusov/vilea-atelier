@@ -2,4 +2,28 @@ User-agent: *
 Allow: /
 Disallow: /assets/img/
 
+# Sitemap
 Sitemap: https://vilea.store/sitemap.xml
+
+# Specific bot rules
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: SeznamBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+# Crawl-delay for polite bots
+User-agent: *
+Crawl-delay: 1
